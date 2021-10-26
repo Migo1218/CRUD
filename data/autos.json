@@ -1,0 +1,39 @@
+{
+  "autos": [
+    {
+      "id": 1,
+      "nombre": "Lamborhini Huracán",
+      "modelo": "2012",
+      "descripcion": "El Lamborghini Huracán .......",
+      "categoria": "2",
+      "imagen": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_gw/images-s/10_10/right_M.jpg",
+      "precio": 240000
+    },
+    {
+      "id": 2,
+      "nombre": "Lamborhini Huracán",
+      "modelo": "2012",
+      "descripcion": "El Lamborghini Huracán .......",
+      "categoria": "1",
+      "imagen": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_gw/images-s/10_10/right_M.jpg",
+      "precio": 240000
+    },
+    {
+      "id": 2,
+      "nombre": "Lamborhini Huracán",
+      "modelo": "2012",
+      "descripcion": "El Lamborghini Huracán .......",
+      "categoria": "2",
+      "imagen": "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_gw/images-s/10_10/right_M.jpg",
+      "precio": 240000
+    },
+    {
+      "nombre": "miguel",
+      "marca": "dhd",
+      "modelo": "2023",
+      "descripcion": "dshtrshtr",
+      "categoria": "1",
+      "id": 3
+    }
+  ]
+}
